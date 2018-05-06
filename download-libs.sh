@@ -69,7 +69,8 @@ git submodule update
 
 # Pin submodules to particular commits
 cd closure-compiler
-git checkout -b 59b42c9fc8fc752b3ff3aabe04ad89a96f9a7bf7 59b42c9fc8fc752b3ff3aabe04ad89a96f9a7bf7
+#git checkout -b 59b42c9fc8fc752b3ff3aabe04ad89a96f9a7bf7 59b42c9fc8fc752b3ff3aabe04ad89a96f9a7bf7
+git checkout -b 6d76d7d55aa2bbc01881ed0d9c8ae9d24c34e908 6d76d7d55aa2bbc01881ed0d9c8ae9d24c34e908
 cd ..
 cd closure-library
 git checkout -b dc369cde87d7ef6dfb46d3b873f872ebee7d07cd dc369cde87d7ef6dfb46d3b873f872ebee7d07cd
